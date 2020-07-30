@@ -1,4 +1,4 @@
-{
+﻿{
   "intents": [
     {
       "intent": "PersonToPerson",
@@ -85,7 +85,7 @@
           "text": "I need tips for at home learning"
         },
         {
-          "text": "While school’s out, how can I help my child continue learning?"
+          "text": "While schoolâ€™s out, how can I help my child continue learning?"
         },
         {
           "text": "Tips for my child's schedule when school is canceled."
@@ -464,7 +464,7 @@
       "intent": "ChildrenSocializing",
       "examples": [
         {
-          "text": "While school’s out, can my child hang out with their friends?"
+          "text": "While schoolâ€™s out, can my child hang out with their friends?"
         },
         {
           "text": "do kids need to limit in person contact?"
@@ -1034,7 +1034,7 @@
           "text": "Meals for students"
         },
         {
-          "text": "While school’s out, will kids have access to meals?"
+          "text": "While schoolâ€™s out, will kids have access to meals?"
         },
         {
           "text": "are schools continuing to serve school lunch plans even if classes are closed?"
@@ -1969,9 +1969,9 @@
         },
         {
           "type": "synonyms",
-          "value": "Brunswick and Lüneburg",
+          "value": "Brunswick and LÃ¼neburg",
           "synonyms": [
-            "Lüneburg",
+            "LÃ¼neburg",
             "Luneburg",
             "Brunswick"
           ]
@@ -2153,7 +2153,7 @@
         },
         {
           "type": "synonyms",
-          "value": "Cote d’Ivoire",
+          "value": "Cote dâ€™Ivoire",
           "synonyms": [
             "Ivory Coast",
             "cote divoire",
@@ -2481,7 +2481,7 @@
           "value": "Puducherry",
           "synonyms": [
             "Pondicherry",
-            "Pondichéry",
+            "PondichÃ©ry",
             "pondicheri"
           ]
         },
@@ -4521,7 +4521,7 @@
           {
             "values": [
               {
-                "text": "Older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19. Based upon available information to date, those most at risk include People 65 years and older, People who live in a nursing home or long-term care facility, People of any age with the following underlying medical conditions, particularly those that are not well controlled, Chronic lung disease or asthma, Congestive heart failure or coronary artery disease, Diabetes, Neurological conditions that weaken ability to cough, Weakened immune system, Chemotherapy or radiation for cancer (currently or in recent past), Sickle cell anemia, Chronic kidney disease requiring dialysis, Cirrhosis of the liver, Lack of spleen or a spleen that doesn’t function correctly, Extreme obesity (body mass index [BMI] > 40), People who are pregnant."
+                "text": "Older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19. Based upon available information to date, those most at risk include People 65 years and older, People who live in a nursing home or long-term care facility, People of any age with the following underlying medical conditions, particularly those that are not well controlled, Chronic lung disease or asthma, Congestive heart failure or coronary artery disease, Diabetes, Neurological conditions that weaken ability to cough, Weakened immune system, Chemotherapy or radiation for cancer (currently or in recent past), Sickle cell anemia, Chronic kidney disease requiring dialysis, Cirrhosis of the liver, Lack of spleen or a spleen that doesnâ€™t function correctly, Extreme obesity (body mass index [BMI] > 40), People who are pregnant."
               }
             ],
             "response_type": "text",
@@ -4601,7 +4601,7 @@
           {
             "values": [
               {
-                "text": "There is still a lot that is unknown about the newly emerged COVID-19 and how it spreads. Two other coronaviruses have emerged previously to cause severe illness in people (MERS-CoV and SARS-CoV). The virus that causes COVID-19 is more genetically related to SARS-CoV than MERS-CoV, but both are betacoronaviruses with their origins in bats. While we don’t know for sure that this virus will behave the same way as SARS-CoV and MERS-CoV, we can use the information gained from both of these earlier coronaviruses to guide us. In general, because of poor survivability of these coronaviruses on surfaces, there is likely very low risk of spread from products or packaging that are shipped over a period of days or weeks at ambient temperatures. Coronaviruses are generally thought to be spread most often by respiratory droplets. Currently there is no evidence to support transmission of COVID-19 associated with imported goods and there have not been any cases of COVID-19 in the United States associated with imported goods. Information will be provided on the Coronavirus Disease 2019 (COVID-19) website as it becomes available."
+                "text": "There is still a lot that is unknown about the newly emerged COVID-19 and how it spreads. Two other coronaviruses have emerged previously to cause severe illness in people (MERS-CoV and SARS-CoV). The virus that causes COVID-19 is more genetically related to SARS-CoV than MERS-CoV, but both are betacoronaviruses with their origins in bats. While we donâ€™t know for sure that this virus will behave the same way as SARS-CoV and MERS-CoV, we can use the information gained from both of these earlier coronaviruses to guide us. In general, because of poor survivability of these coronaviruses on surfaces, there is likely very low risk of spread from products or packaging that are shipped over a period of days or weeks at ambient temperatures. Coronaviruses are generally thought to be spread most often by respiratory droplets. Currently there is no evidence to support transmission of COVID-19 associated with imported goods and there have not been any cases of COVID-19 in the United States associated with imported goods. Information will be provided on the Coronavirus Disease 2019 (COVID-19) website as it becomes available."
               }
             ],
             "response_type": "text",
@@ -4721,7 +4721,7 @@
           {
             "values": [
               {
-                "text": "Employees may have been exposed if they are a “close contact” of someone who infected, which is defined as being within approximately 6 feet (2 meters) of a person with COVID-19 for a prolonged period of time. Potentially exposed employees who have symptoms of COVID-19 should self-isolate and follow CDC recommended steps."
+                "text": "Employees may have been exposed if they are a â€œclose contactâ€ of someone who infected, which is defined as being within approximately 6 feet (2 meters) of a person with COVID-19 for a prolonged period of time. Potentially exposed employees who have symptoms of COVID-19 should self-isolate and follow CDC recommended steps."
               }
             ],
             "response_type": "text",
@@ -4741,7 +4741,7 @@
           {
             "values": [
               {
-                "text": "Follow the advice of your local health officials. Stay home if you can. Talk to your employer to discuss working from home, taking leave if you or someone in your household gets sick with COVID-19 symptoms , or if your child’s school is dismissed temporarily. Employers should be aware that more employees may need to stay at home to care for sick children or other sick family members than is usual in case of a community outbreak."
+                "text": "Follow the advice of your local health officials. Stay home if you can. Talk to your employer to discuss working from home, taking leave if you or someone in your household gets sick with COVID-19 symptoms , or if your childâ€™s school is dismissed temporarily. Employers should be aware that more employees may need to stay at home to care for sick children or other sick family members than is usual in case of a community outbreak."
               }
             ],
             "response_type": "text",
@@ -4787,7 +4787,7 @@
           {
             "values": [
               {
-                "text": "To keep your employees safe, you should: - Consider options to increase physical space between employees and customers such as opening a drive- through, erecting partitions, and marking floors to guide spacing at least six feet apart. - Use hand sanitizer that contains at least 60% alcohol if soap and water are not available."
+                "text": "To keep your employees safe, you should:Â - Consider options to increase physical space between employees and customers such as opening a drive- through, erecting partitions, and marking floors to guide spacing at least six feet apart.Â - Use hand sanitizer that contains at least 60% alcohol if soap and water are not available."
               }
             ],
             "response_type": "text",
@@ -4925,7 +4925,7 @@
           {
             "values": [
               {
-                "text": "Social Distancing Strategies that businesses could use include: - Allowing flexible worksites (such as telework) - Allowing flexible work hours (such as staggered shifts) - Increasing physical space between employees at the worksite - Increasing physical space between employees and customers (such as a drive-through and partitions) - Implementing flexible meeting and travel options (such as postponing non-essential meetings or events) - Downsizing operations - Delivering services remotely (e.g., phone, video, or web) - Delivering products through curbside pick-up or delivery"
+                "text": "Social Distancing Strategies that businesses could use include:Â - Allowing flexible worksites (such as telework) - Allowing flexible work hours (such as staggered shifts)Â - Increasing physical space between employees at the worksite - Increasing physical space between employees and customers (such as a drive-through and partitions)Â - Implementing flexible meeting and travel options (such as postponing non-essential meetings or events) - Downsizing operationsÂ - Delivering services remotely (e.g., phone, video, or web)Â - Delivering products through curbside pick-up or delivery"
               }
             ],
             "response_type": "text",
@@ -4945,7 +4945,7 @@
           {
             "values": [
               {
-                "text": "The symptoms of COVID-19 are similar in children and adults. However, children with confirmed COVID-19 have generally presented with mild symptoms. Reported symptoms in children include cold-like symptoms, such as fever, runny nose, and cough. Vomiting and diarrhea have also been reported. It’s not known yet whether some children may be at higher risk for severe illness, for example, children with underlying medical conditions and special healthcare needs. There is much more to be learned about how the disease impacts children."
+                "text": "The symptoms of COVID-19 are similar in children and adults. However, children with confirmed COVID-19 have generally presented with mild symptoms. Reported symptoms in children include cold-like symptoms, such as fever, runny nose, and cough. Vomiting and diarrhea have also been reported. Itâ€™s not known yet whether some children may be at higher risk for severe illness, for example, children with underlying medical conditions and special healthcare needs. There is much more to be learned about how the disease impacts children."
               }
             ],
             "response_type": "text",
@@ -5005,7 +5005,7 @@
           {
             "values": [
               {
-                "text": "This is an emerging, rapidly evolving situation and CDC will continue to provide updated information as it becomes available. CDC works 24/7 to protect people’s health.  For CDC guidance please visit: https://www.cdc.gov/coronavirus/2019-nCoV/index.html"
+                "text": "This is an emerging, rapidly evolving situation and CDC will continue to provide updated information as it becomes available. CDC works 24/7 to protect peopleâ€™s health.  For CDC guidance please visit: https://www.cdc.gov/coronavirus/2019-nCoV/index.html"
               }
             ],
             "response_type": "text",
@@ -5065,7 +5065,7 @@
           {
             "values": [
               {
-                "text": "Employers can also: - Provide tissues and no-touch disposal receptacles. - Provide soap and water in the workplace. - Place hand sanitizer in multiple locations to encourage good hand hygiene practices. - Place posters that encourage staying home when sick, the importance of hand hygiene, and coughing and sneezing etiquette at the entrance to your workplace and in other workplace areas where employees are likely to see them. - Discourage handshaking."
+                "text": "Employers can also:Â - Provide tissues and no-touch disposal receptacles. - Provide soap and water in the workplace. - Place hand sanitizer in multiple locations to encourage good hand hygiene practices.Â - Place posters that encourage staying home when sick, the importance of hand hygiene, and coughing and sneezing etiquette at the entrance to your workplace and in other workplace areas where employees are likely to see them.Â - Discourage handshaking."
               }
             ],
             "response_type": "text",
@@ -5125,7 +5125,7 @@
           {
             "values": [
               {
-                "text": "The key to slowing the spread of COVID-19 is to limit social interactions as much as possible. Parents should minimize play dates, and if held, parents should keep the groups small. Advise older children to hang out in a small group and to meet up outside rather than inside. It’s easier to keep and maintain space between others in outdoor settings, like parks. If you have small meetups, consider hanging out with another family or friend who is also taking extra measures to put distance between themselves and others (i.e. social distancing). Make sure children practice everyday preventive behaviors , such as cleaning and then disinfecting frequently touched surfaces. Remember, if children meet outside of school in bigger groups, it can put everyone at risk. This includes spring break and other group travel. Parents should help their older children revise spring break plans that included non-essential travel to crowded areas. Information about COVID-19 in children is somewhat limited, but current data suggest children with COVID-19 may show only mild symptoms. However, they can still pass this virus onto others who may be at higher risk, including older adults and people who have serious chronic medical conditions"
+                "text": "The key to slowing the spread of COVID-19 is to limit social interactions as much as possible. Parents should minimize play dates, and if held, parents should keep the groups small. Advise older children to hang out in a small group and to meet up outside rather than inside. Itâ€™s easier to keep and maintain space between others in outdoor settings, like parks. If you have small meetups, consider hanging out with another family or friend who is also taking extra measures to put distance between themselves and others (i.e. social distancing). Make sure children practice everyday preventive behaviors , such as cleaning and then disinfecting frequently touched surfaces. Remember, if children meet outside of school in bigger groups, it can put everyone at risk. This includes spring break and other group travel. Parents should help their older children revise spring break plans that included non-essential travel to crowded areas. Information about COVID-19 in children is somewhat limited, but current data suggest children with COVID-19 may show only mild symptoms. However, they can still pass this virus onto others who may be at higher risk, including older adults and people who have serious chronic medical conditions"
               }
             ],
             "response_type": "text",
@@ -5165,7 +5165,7 @@
           {
             "values": [
               {
-                "text": "Employers should not require sick employees to provide a COVID-19 test result or a healthcare provider’s note to validate their illness, qualify for sick leave, or to return to work. Healthcare provider offices and medical facilities may be extremely busy and not able to provide such documentation in a timely manner."
+                "text": "Employers should not require sick employees to provide a COVID-19 test result or a healthcare providerâ€™s note to validate their illness, qualify for sick leave, or to return to work. Healthcare provider offices and medical facilities may be extremely busy and not able to provide such documentation in a timely manner."
               }
             ],
             "response_type": "text",
@@ -5205,7 +5205,7 @@
           {
             "values": [
               {
-                "text": "Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. You can learn more about who is most at risk for health problems if they have COVID-19 infection on CDC’s current Risk Assessment page."
+                "text": "Based on available evidence, children do not appear to be at higher risk for COVID-19 than adults. While some children and infants have been sick with COVID-19, adults make up most of the known cases to date. You can learn more about who is most at risk for health problems if they have COVID-19 infection on CDCâ€™s current Risk Assessment page."
               }
             ],
             "response_type": "text",
@@ -5265,7 +5265,7 @@
           {
             "values": [
               {
-                "text": "This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, but the virus is now spreading from person-to-person. It’s important to note that person-to-person spread can happen on a continuum. Some viruses are highly contagious (like measles), while other viruses are less so. The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (“community spread”) in some affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected."
+                "text": "This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, but the virus is now spreading from person-to-person. Itâ€™s important to note that person-to-person spread can happen on a continuum. Some viruses are highly contagious (like measles), while other viruses are less so. The virus that causes COVID-19 seems to be spreading easily and sustainably in the community (â€œcommunity spreadâ€) in some affected geographic areas. Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected."
               }
             ],
             "response_type": "text",
@@ -5325,7 +5325,7 @@
           {
             "values": [
               {
-                "text": "While this virus seems to have emerged from an animal source, it is now spreading from person-to-person. There is no reason to think that any animals including pets in the United States might be a source of infection with this new coronavirus. To date, CDC has not received any reports of pets or other animals becoming sick with COVID-19. At this time, there is no evidence that companion animals including pets can spread COVID-19. However, since animals can spread other diseases to people, it’s always a good idea to wash your hands after being around animals."
+                "text": "While this virus seems to have emerged from an animal source, it is now spreading from person-to-person. There is no reason to think that any animals including pets in the United States might be a source of infection with this new coronavirus. To date, CDC has not received any reports of pets or other animals becoming sick with COVID-19. At this time, there is no evidence that companion animals including pets can spread COVID-19. However, since animals can spread other diseases to people, itâ€™s always a good idea to wash your hands after being around animals."
               }
             ],
             "response_type": "text",
@@ -5345,7 +5345,7 @@
           {
             "values": [
               {
-                "text": "Wear cloth face coverings in public settings where other social distancing measures are difficult to maintain, especially in areas of significant community transmission. Employees should continue to follow their routine policies and procedures for PPE (if any) that they would ordinarily use for their job tasks."
+                "text": "Wear cloth face coverings in public settings where other social distancing measures are difficult to maintain, especially in areas of significant community transmission.Â Employees should continue to follow their routine policies and procedures for PPE (if any) that they would ordinarily use for their job tasks."
               }
             ],
             "response_type": "text",
@@ -5365,7 +5365,7 @@
           {
             "values": [
               {
-                "text": "On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, ‘CO’ stands for ‘corona,’ ‘VI’ for ‘virus,’ and ‘D’ for disease. Formerly, this disease was referred to as “2019 novel coronavirus” or “2019-nCoV”. There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. The name of this disease was selected following the World Health Organization (WHO) best practice for naming of new human infectious diseases."
+                "text": "On February 11, 2020 the World Health Organization announced an official name for the disease that is causing the 2019 novel coronavirus outbreak, first identified in Wuhan China. The new name of this disease is coronavirus disease 2019, abbreviated as COVID-19. In COVID-19, â€˜COâ€™ stands for â€˜corona,â€™ â€˜VIâ€™ for â€˜virus,â€™ and â€˜Dâ€™ for disease. Formerly, this disease was referred to as â€œ2019 novel coronavirusâ€ or â€œ2019-nCoVâ€. There are many types of human coronaviruses including some that commonly cause mild upper-respiratory tract illnesses. COVID-19 is a new disease, caused be a novel (or new) coronavirus that has not previously been seen in humans. The name of this disease was selected following the World Health Organization (WHO) best practice for naming of new human infectious diseases."
               }
             ],
             "response_type": "text",
@@ -5457,7 +5457,7 @@
           {
             "values": [
               {
-                "text": "Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals. Read or watch local media sources that report school dismissals or and watch for communication from your child’s school. If schools are dismissed temporarily, discourage students and staff from gathering or socializing anywhere, like at a friend’s house, a favorite restaurant, or the local shopping mall."
+                "text": "Depending on the situation, public health officials may recommend community actions to reduce exposures to COVID-19, such as school dismissals. Read or watch local media sources that report school dismissals or and watch for communication from your childâ€™s school. If schools are dismissed temporarily, discourage students and staff from gathering or socializing anywhere, like at a friendâ€™s house, a favorite restaurant, or the local shopping mall."
               }
             ],
             "response_type": "text",
@@ -5497,7 +5497,7 @@
           {
             "values": [
               {
-                "text": "You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy. Clean hands often using soap and water or alcohol-based hand sanitizer Avoid people who are sick (coughing and sneezing) Clean and disinfect high-touch surfaces daily in household common areas (e.g. tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks) Launder items including washable plush toys as appropriate in accordance with the manufacturer’s instructions. If possible, launder items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from an ill person can be washed with other people’s items. You can find additional information on preventing COVID-19 at Prevention for 2019 Novel Coronavirus and at Preventing COVID-19 Spread in Communities . Additional information on how COVID-19 is spread is available by asking How COVID-19 Spreads"
+                "text": "You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy. Clean hands often using soap and water or alcohol-based hand sanitizer Avoid people who are sick (coughing and sneezing) Clean and disinfect high-touch surfaces daily in household common areas (e.g. tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks) Launder items including washable plush toys as appropriate in accordance with the manufacturerâ€™s instructions. If possible, launder items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from an ill person can be washed with other peopleâ€™s items. You can find additional information on preventing COVID-19 at Prevention for 2019 Novel Coronavirus and at Preventing COVID-19 Spread in Communities . Additional information on how COVID-19 is spread is available by asking How COVID-19 Spreads"
               }
             ],
             "response_type": "text",
@@ -5517,7 +5517,7 @@
           {
             "values": [
               {
-                "text": "Using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in the person’s sample. In the early stages of infection, it is possible the virus will not be detected. For COVID-19, a negative test result for a sample collected while a person has symptoms likely means that the COVID-19 virus is not causing their current illness."
+                "text": "Using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in the personâ€™s sample. In the early stages of infection, it is possible the virus will not be detected. For COVID-19, a negative test result for a sample collected while a person has symptoms likely means that the COVID-19 virus is not causing their current illness."
               }
             ],
             "response_type": "text",
@@ -5537,7 +5537,7 @@
           {
             "values": [
               {
-                "text": "Stay in touch with your child’s school. Many schools are adapting in-person lessons to online or virtual learning. Review assignments from the school, and help your child establish a reasonable pace for completing the work. You may need to assist your child with turning on devices, reading instructions, and typing answers. Communicate challenges to your school. If you face technology or connectivity issues, or if your child is having a hard time completing assignments, let the school know. Create a schedule and routine for learning at home, but remain flexible. Have consistent bedtimes and get up at the same time, Monday through Friday. Structure the day for learning, free time, healthy meals and snacks, and physical activity. Allow flexibility in the schedule—it’s okay to adapt based on your day. Consider the needs and adjustment required for your child’s age group. The transition to being at home will be different for preschoolers, K-5, middle school students, and high school students. Talk to your child about expectations and how they are adjusting to being at home versus at school. Consider ways your child can stay connected with their friends without spending time in person. Look for ways to make learning fun. Have hands-on activities, like puzzles, painting, drawing, and making things. Independent play can also be used in place of structured learning. Encourage children to build a fort from sheets or practice counting by stacking blocks. Practice handwriting and grammar by writing letters to family members. This is a great way to connect and limit face-to-face contact. Start a journal with your child to document this time and discuss the shared experience. Use audio books or see if your local library is hosting virtual or live-streamed reading events."
+                "text": "Stay in touch with your childâ€™s school. Many schools are adapting in-person lessons to online or virtual learning. Review assignments from the school, and help your child establish a reasonable pace for completing the work. You may need to assist your child with turning on devices, reading instructions, and typing answers. Communicate challenges to your school. If you face technology or connectivity issues, or if your child is having a hard time completing assignments, let the school know. Create a schedule and routine for learning at home, but remain flexible. Have consistent bedtimes and get up at the same time, Monday through Friday. Structure the day for learning, free time, healthy meals and snacks, and physical activity. Allow flexibility in the scheduleâ€”itâ€™s okay to adapt based on your day. Consider the needs and adjustment required for your childâ€™s age group. The transition to being at home will be different for preschoolers, K-5, middle school students, and high school students. Talk to your child about expectations and how they are adjusting to being at home versus at school. Consider ways your child can stay connected with their friends without spending time in person. Look for ways to make learning fun. Have hands-on activities, like puzzles, painting, drawing, and making things. Independent play can also be used in place of structured learning. Encourage children to build a fort from sheets or practice counting by stacking blocks. Practice handwriting and grammar by writing letters to family members. This is a great way to connect and limit face-to-face contact. Start a journal with your child to document this time and discuss the shared experience. Use audio books or see if your local library is hosting virtual or live-streamed reading events."
               }
             ],
             "response_type": "text",
