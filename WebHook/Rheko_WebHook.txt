@@ -167,11 +167,11 @@ async function main(params) {
                 json: true,
                 });
                  return {
-                    result:`Title: ${ggl.items[0].title}\nLink: ${ggl.items[0].link}\n\nDescription: ${ggl.items[0].snippet}\n
-                            Title: ${ggl.items[1].title}\nLink: ${ggl.items[1].link}\n\nDescription: ${ggl.items[1].snippet}\n
-                            Title: ${ggl.items[2].title}\nLink: ${ggl.items[2].link}\n\nDescription: ${ggl.items[2].snippet}\n
-                            Title: ${ggl.items[3].title}\nLink: ${ggl.items[3].link}\n\nDescription: ${ggl.items[3].snippet}\n
-                            Title: ${ggl.items[4].title}\nLink: ${ggl.items[4].link}\n\nDescription: ${ggl.items[4].snippet}`
+                    result:`Title: ${ggl.items[0].title}\nLink: ${ggl.items[0].link}\nDescription: ${ggl.items[0].snippet}\n\n
+                            Title: ${ggl.items[1].title}\nLink: ${ggl.items[1].link}\nDescription: ${ggl.items[1].snippet}\n\n
+                            Title: ${ggl.items[2].title}\nLink: ${ggl.items[2].link}\nDescription: ${ggl.items[2].snippet}\n\n
+                            Title: ${ggl.items[3].title}\nLink: ${ggl.items[3].link}\nDescription: ${ggl.items[3].snippet}\n\n
+                            Title: ${ggl.items[4].title}\nLink: ${ggl.items[4].link}\nDescription: ${ggl.items[4].snippet}`
                 };
         }
    
