@@ -159,7 +159,7 @@ async function main(params) {
                
                 console.log(google);
                 
-               var uri = "https://www.googleapis.com/customsearch/v1?key=AIzaSyBprA4yqyQzOQ28v8V6lJnToG2frtD6N3s&cx=016486403877542094238:jyuhp5xlepc&q="+google;
+               var uri = `https://www.googleapis.com/customsearch/v1?key=${params.key}&cx=${params.cx}&q=`+google;
           
                 const ggl = await request({
                 method: "GET",
@@ -263,7 +263,7 @@ async function main(params) {
       });
       return {
         result:
-          "Here are some news articles we found. We can’t verify the accuracy of all of these sources.\n\n" +
+          "Here are some news articles we found. We canâ€™t verify the accuracy of all of these sources.\n\n" +
           response.join("\n\n"),
       };
     } catch (err) {
